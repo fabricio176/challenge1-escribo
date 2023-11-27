@@ -21,7 +21,7 @@
 #### how to run below project ?
 1. Instale o [git](https://git-scm.com/downloads)
 <br>1.1 - Install the git[git](https://git-scm.com/downloads)
-2.Em um git bash ou terminal, execute o código abaixo:
+2. Em um git bash ou terminal, execute o código abaixo:
 <br>2.1 - In a git bash or terminal, run the below code:
   <br>`git clone https://github.com/fabricio176/challenge1-escribo.git`
 3. Abra o arquivo index.html em um navegador 
