@@ -23,7 +23,7 @@
 <br>1.1 - Install the git[git](https://git-scm.com/downloads)
 2.Em um git bash ou terminal, execute o código abaixo:
 <br>2.1 - In a git bash or terminal, run the below code:
-  `git clone https://github.com/fabricio176/challenge1-escribo.git`
+  <br>`git clone https://github.com/fabricio176/challenge1-escribo.git`
 3. Abra o arquivo index.html em um navegador 
 <br>3.1- Open the file index.html in a browser
 4. Digite o número positivo desejado
