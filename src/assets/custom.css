@@ -28,9 +28,13 @@ hr{
     height: 1rem;
 }
 
+p{
+    text-align: center;
+}
+
 body{
     background-color: #0693e3;
-    color: #EDF000;
+    color: yellow;
     font-size: 20px;
 }
 
